@@ -1,0 +1,10 @@
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\bin\Release\GaussianEliminationCalculator.exe.config
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\bin\Release\GaussianEliminationCalculator.exe
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\bin\Release\GaussianEliminationCalculator.pdb
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.csprojAssemblyReference.cache
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.Form1.resources
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.Properties.Resources.resources
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.csproj.GenerateResource.cache
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.exe
+C:\Users\xxmat\Desktop\Gaussian Elimination Calculator\Gaussian-Elimination-Calculator\GaussianEliminationCalculator\obj\Release\GaussianEliminationCalculator.pdb
