@@ -1,0 +1,10 @@
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\bin\Debug\GaussianEliminationCalculator.exe.config
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\bin\Debug\GaussianEliminationCalculator.exe
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\bin\Debug\GaussianEliminationCalculator.pdb
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.csprojAssemblyReference.cache
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.Form1.resources
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.Properties.Resources.resources
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.csproj.GenerateResource.cache
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.exe
+C:\Users\xxmat\source\repos\GaussianEliminationCalculator\GaussianEliminationCalculator\obj\Debug\GaussianEliminationCalculator.pdb
